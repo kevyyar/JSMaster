@@ -7,6 +7,12 @@ let tvShow = "catdog";
 tvShow.indexOf("cat");
 tvShow.indexOf("dog");
 tvShow.indexOf("entertainment");
+tvShow.indexOf("catdog ");
+if (tvShow.indexOf(" ") === -1) {
+  console.log(`There is no space`);
+} else {
+  console.log("There is a space");
+}
 /////////////////////////////////////////
 let str = "hellodopaliciousstuff";
 str.slice(0, 5);
