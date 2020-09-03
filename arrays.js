@@ -48,3 +48,6 @@ ingredients.includes("juice");
 let letters = ["R", "E", "S", "P", "E", "C", "T"];
 // letters.reverse();
 letters.join("");
+// Sort numbers in an Array
+let nums = [34, 10, 28, 8, 24];
+nums.sort();
