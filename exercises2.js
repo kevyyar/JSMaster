@@ -55,18 +55,7 @@ function getCard() {
 		"K",
 		"A",
 	];
-	//
-	// const valIdx = Math.floor(Math.random() * values.length);
-	// const value = values[valIdx];
-	const value = pick(values)
+
 	const suits = ["clubs", "spades", "hearts", "diamonds"];
-
-	// const suitIdx = Math.floor(Math.random() * suits.length);
-	// const suit = suits[suitIdx];
-	// console.log(value, suit)
-
-	return {
-		value: value,
-		suit: suit,
-	};
+	return {value: pick(values), suit: pick(suits)};
 }
