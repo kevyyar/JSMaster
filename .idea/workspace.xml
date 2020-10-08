@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="643e41b7-eb32-4150-a4cd-0ef906208b82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_parameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_methods/methods_in_objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_methods/this.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iRQ1M6XhFMSYCXogNk7VJICDcV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.this.js">
+    <configuration name="destructuring_arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_arrays.js" working-dir="$PROJECT_DIR$/js_miscellaneoues_features">
+      <method v="2" />
+    </configuration>
+    <configuration name="destructuring_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_objects.js" working-dir="$PROJECT_DIR$/js_miscellaneoues_features">
+      <method v="2" />
+    </configuration>
+    <configuration name="destructuring_parameters.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_parameters.js" working-dir="$PROJECT_DIR$/js_miscellaneoues_features">
+      <method v="2" />
+    </configuration>
+    <configuration name="methods_in_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/object_methods/methods_in_objects.js" working-dir="$PROJECT_DIR$/object_methods">
+      <method v="2" />
+    </configuration>
+    <configuration name="this.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/object_methods/this.js" working-dir="$PROJECT_DIR$/object_methods">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.this.js" />
+        <item itemvalue="Node.js.methods_in_objects.js" />
+        <item itemvalue="Node.js.destructuring_parameters.js" />
+        <item itemvalue="Node.js.destructuring_objects.js" />
+        <item itemvalue="Node.js.destructuring_arrays.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643e41b7-eb32-4150-a4cd-0ef906208b82" name="Default Changelist" comment="" />
+      <created>1601867710210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601867710210</updated>
+      <workItem from="1601867711455" duration="378000" />
+      <workItem from="1601868100629" duration="3367000" />
+      <workItem from="1601902795936" duration="4535000" />
+      <workItem from="1601990710697" duration="2505000" />
+      <workItem from="1602039952324" duration="438000" />
+      <workItem from="1602075875224" duration="1720000" />
+      <workItem from="1602092340017" duration="2252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="903" height="269" key="GridCell.Tab.0.bottom" timestamp="1602094169940">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601871596379" />
+    <state width="903" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602094169940" />
+    <state width="1896" height="278" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602027130343" />
+    <state width="903" height="269" key="GridCell.Tab.0.center" timestamp="1602094169939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="278" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601871596379" />
+    <state width="903" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602094169939" />
+    <state width="1896" height="278" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602027130343" />
+    <state width="903" height="269" key="GridCell.Tab.0.left" timestamp="1602094169939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="278" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601871596379" />
+    <state width="903" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602094169939" />
+    <state width="1896" height="278" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602027130343" />
+    <state width="903" height="269" key="GridCell.Tab.0.right" timestamp="1602094169939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="278" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601871596379" />
+    <state width="903" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602094169939" />
+    <state width="1896" height="278" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602027130343" />
+    <state x="394" y="94" key="SettingsEditor" timestamp="1602092472631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="396" y="112" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1601868557437" />
+    <state x="394" y="94" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602092472631" />
+  </component>
+</project>
