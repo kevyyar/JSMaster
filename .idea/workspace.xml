@@ -20,11 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="643e41b7-eb32-4150-a4cd-0ef906208b82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_miscellaneoues_features/destructuring_parameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_methods/methods_in_objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_methods/this.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +91,7 @@
       <workItem from="1602039952324" duration="438000" />
       <workItem from="1602075875224" duration="1720000" />
       <workItem from="1602092340017" duration="2252000" />
+      <workItem from="1602337958008" duration="7000" />
     </task>
     <servers />
   </component>
