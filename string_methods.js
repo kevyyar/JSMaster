@@ -20,3 +20,4 @@ str.slice(4);
 ///////////////////////////////
 let annoyingLaugh = "teheee so funny looolz";
 annoyingLaugh.replace("teheee", "hahaha");
+console.log("Hello");

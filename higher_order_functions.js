@@ -2,6 +2,10 @@ function add(x, y) {
   return x + y;
 }
 
+function helloThere(name) {
+  console.log(`hello there ${name}`);
+}
+
 const subtract = function (x, y) {
   return x - y;
 };
@@ -28,4 +32,4 @@ const math = {
   division: divide,
 };
 console.log(math.sum(3, 5));
-
+helloThere("Kevin");

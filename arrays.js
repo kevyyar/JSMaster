@@ -16,12 +16,13 @@ shoppingList[shoppingList.length - 1];
 let storeItems = ["cheddar cheese", "2% milk"];
 // Update a value
 storeItems[1] = "Whole Milk";
+storeItems[0] = "Queso Oaxaca";
 storeItems;
 // add item to end of array
 storeItems.push("Chocolate Cake");
 storeItems;
 // remove item from end of array
-let sportTeams = ["Lakers", "Barcelona", "Real Madrid", "NY Yankees"];
+const sportTeams = ["Lakers", "Barcelona", "Real Madrid", "NY Yankees"];
 sportTeams.pop();
 sportTeams;
 // add element to the beginning of Array
