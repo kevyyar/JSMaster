@@ -13,3 +13,5 @@ allPs.forEach((p, i) => {
   const color = colors[i];
   p.style.color = color;
 });
+
+h1.style.color = "orchid";
